@@ -38,7 +38,7 @@ class Produto{
     *@return Void
     */
 
-   public function setCliente($nome, $uni_medida, $preco, $cod_produto){
+   public function setProduto($nome, $uni_medida, $preco, $cod_produto){
       $this->cod_produto = $cod_produto;
       $this->nome = $nome;
       $this->uni_medida = $uni_medida;
