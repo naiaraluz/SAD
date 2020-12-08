@@ -3,7 +3,7 @@ namespace dimensoes;
 
 /**
  * Model da entidade cliente
- * @author Julio
+ * @author Naiara
  */
 class Cliente{
    /**
@@ -53,7 +53,7 @@ class Cliente{
    public $uf;
 
    /**
-    * Carrega os atributos da classe Prospect
+    * Carrega os atributos da classe Cliente
     * @param $cpf CPF do cliente
     * @param $nome Nome do cliente
     * @param $sexo Sexo do cliente
